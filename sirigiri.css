@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    margin: 0px;
+}
+
+.name-container {
+    background-color: #171e59;
+    height: 50vh;
+    width: 100vw;
+    background-size: cover;
+}
+
+.about-container {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.name {
+    color: #ffffff;
+    margin: 0px;
+    padding-top: 40px;
+    padding-left: 35px;
+    font-family: "Roboto";
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.date {
+    color: #ffffff;
+    margin: 0px;
+    padding-top: 20px;
+    padding-left: 35px;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.about {
+    color: #ffffff;
+    margin: 0px;
+    padding-top: 5px;
+    padding-left: 35px;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.about-description {
+    color: #ffffff;
+    margin: 0px;
+    padding-top: 5px;
+    padding-left: 35px;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.about-content-container {
+    height: 100vh;
+    width: 100vw;
+}
+
+.image-container {
+    padding-right: 25px;
+    height: 100%;
+    width: 50%;
+}
+
+.image {
+    height: 30vh;
+    width: 30vw;
+    position: absolute;
+    top: 250px;
+}
+
+.information-container {
+    color: #171e59;
+}
+
+.contact-heading {
+    color: #171e59;
+    margin: 0px;
+    padding-top: 40px;
+    padding-left: 35px;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.details-container {
+    display: flex;
+    flex-direction: row;
+    padding: 35px;
+}
+
+.education {
+    display: flex;
+    flex-direction: row;
+}
+
+.icon-image {
+    height: 20px;
+    width: 20px;
+    margin: 3px;
+}
+
+.logos {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.call-number {
+    display: flex;
+    flex-direction: row;
+}
+
+.horizontal-line {
+    background-color: #34b1eb;
+    height: 3px;
+}
